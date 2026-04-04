@@ -1,4 +1,4 @@
-# 📘 JavaScript AMA Answers
+# JavaScript AMA Answers
 
 ---
 
